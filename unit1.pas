@@ -23,4 +23,5 @@ implementation
 {$R *.lfm}
 
 end.
+TEST1234
 
