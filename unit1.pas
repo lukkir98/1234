@@ -6,7 +6,7 @@ interface
 
 uses
   Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs;
- 12344
+
 type
   TForm1 = class(TForm)
   private
